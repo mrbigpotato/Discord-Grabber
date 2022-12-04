@@ -25,3 +25,16 @@ Postal code
 
 For Educational Purposes Only
 We decline any responsability in case of misuse of this code.
+
+# This is copied code! These are the real authors.
+Contributors 4
+@mouadessalim
+mouadessalim mouadessalim
+@9P9
+9P9 x(
+@the-cult-of-integral
+the-cult-of-integral Integral
+
+# This is only to share this Amazing code!
+@mte0
+mte0 mte
