@@ -21,6 +21,7 @@ City
 Postal code
 
 
-ANY MALICOUS/ILLEGAL USE OF THIS CODE WILL NOT BE THE AUTHORS FAULT!
-USE ON YOUR SELF AND NOT FOR ILLEGAL PURPOSES
-USE ON YOUR OWN RISK
+# DISCLAIMER
+
+For Educational Purposes Only
+We decline any responsability in case of misuse of this code.
