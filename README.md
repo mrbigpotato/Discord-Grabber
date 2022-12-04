@@ -1,5 +1,4 @@
 # Discord-Grabber
-discord webhook
 With a Discord Webhook, you will be able to get much more target information. The target information shown includes:
 
 User token informations :
